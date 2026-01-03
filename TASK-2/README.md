@@ -1,5 +1,5 @@
 # 📊 Task 2: Data Visualization and Storytelling
-
+ 
 ## 🎯 Objective
 Create visualizations that convey a compelling story using business data. The goal is to transform raw numbers into meaningful insights through effective charts and dashboards.
 
@@ -65,4 +65,5 @@ Create visualizations that convey a compelling story using business data. The go
 
 ## 📤 Submission
 All files have been uploaded to this repository. Screenshots and summary slide are included as per the task guidelines.
+
 
